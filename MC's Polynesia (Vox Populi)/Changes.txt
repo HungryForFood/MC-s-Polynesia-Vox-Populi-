@@ -1,0 +1,47 @@
+--------------------------------------------------------------
+v1 (changes from v3 of original mod)
+--------------------------------------------------------------
+Hawaii UA: Kahuna Mastery
+- Specialist bonus from double base yield to +1 base yield, increasing in Medieval, Industrial, Atomic (same scaling as Korea).
+- Great Person points from combat now 5% of current progress at capital, rather than a multipler based on the defeated unit's combat strength.
+- Now reveals Fish immediately.
+- Melee naval units can build Fishing Boats.
+
+Hawaii UB: Heiau (replaces Temple)
+- Specialist slot now a player choice.
+- Added choice for Civil Servant.
+- Each choice now has an additional yield bonus on top of the specialist slots:
+  - Paka'a (Merchant): +5 Food, Gold
+  - Kū (Engineer): +3 Production, Great General Points, Great Admiral Points
+  - Poli'ahu (Scientist): +2 Science
+  - Pele (Artist): +2 Culture
+  - Kanaloa (Writer): +2 Culture
+  - Lono (Musician): +2 Culture
+  - Kāne (Civil Servant): +1 Science, +3 Gold
+- Each of the specialist slot upgrades also grants 2 unhappiness reduction from specialists.
+- Cost of base Heiau now 150, slot choice cost is 50 (sum is same as Temple).
+
+Hawaii UU: Koa (replaces Longswordsman)
+- Combat strength now 2 higher than Longswordsman.
+- Now starts with Cover I, like the Longswordsman.
+- Now unlocks at Chivalry instead of Steel.
+- Removed extra XP.
+- Added Kapu Ku'ialua (+10% combat strength, -1 movement to enemy for 1 turn when in melee combat).
+
+Hawaii UB: Mala'e (requires 4UC) (replaces Granary)
+- Same as Tonga.
+
+Hawaii UU: Kukini (requires 4UC) (replaces Scout)
+- +1 Movement, +15% combat strength, can move after attacking.
+- 2 more base combat strength.
+
+Tonga UB: Mala'e (replaces Granary)
+- Removed +2 Food if adjacent to 3 sea tiles.
+- Removed +1 Food from Fish and Crab.
+- Now has all the effects of the base Granary.
+- Now buildable in inland cities.
+- +1 Food, Production to Atolls and Fishing Boats.
+- Spawns 2 Fish near the city, if valid.
+
+Misc
+- Maori, Rapa Nui, Tonga unselectable (coming in future versions).

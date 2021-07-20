@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# ModBuddy Solution File, Format Version 11.00
+Project("{F5FC21B5-7CC2-458A-ABBA-992F515BBA20}") = "MC's Polynesia (Vox Populi)", "MC's Polynesia (Vox Populi)\MC's Polynesia (Vox Populi).civ5proj", "{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}"
+EndProject
+Project("{F5FC21B5-7CC2-458A-ABBA-992F515BBA20}") = "MC's Polynesia (Vox Populi) More Components", "MC's Polynesia More Components\MC's Polynesia (Vox Populi) More Components.civ5proj", "{59A720BA-D8F2-4E4B-9C70-45C580A487D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|x86 = Default|x86
+		Deploy Only|x86 = Deploy Only|x86
+		Package Only|x86 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Default|x86.ActiveCfg = Default|x86
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Default|x86.Build.0 = Default|x86
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Deploy Only|x86.Build.0 = Deploy Only|x86
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Package Only|x86.ActiveCfg = Package Only|x86
+		{6B582513-BDE3-4279-BDC6-CA7F1585FBD3}.Package Only|x86.Build.0 = Package Only|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Default|x86.ActiveCfg = Default|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Default|x86.Build.0 = Default|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Deploy Only|x86.Build.0 = Deploy Only|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Package Only|x86.ActiveCfg = Package Only|x86
+		{59A720BA-D8F2-4E4B-9C70-45C580A487D2}.Package Only|x86.Build.0 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

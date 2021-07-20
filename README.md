@@ -1,2 +1,2 @@
 # MC-s-Polynesia-Vox-Populi-
-Vox Populi compatibility for MC's Polynesia pack.
+Civilization 5 mod. Vox Populi compatibility for MC's Polynesia pack.
